@@ -1,6 +1,7 @@
 
-### 💻 Jaewoon Park
-💿 currently learning React, TypeScript, Figma.
+💿 I'm currently learning React, TypeScript, Figma.\
+🥯 I'm currently into blueberry bagles...
+
 
 <!--
 **frontendpark/frontendpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
