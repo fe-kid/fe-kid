@@ -1,5 +1,5 @@
 🥗 I'm currently into __tofu salad__...\
-💿 I'm currently learning __React__ and __TypeScript__...
+💿 I'm currently learning __React.js__...
 
 
 <!--
