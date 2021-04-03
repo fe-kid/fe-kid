@@ -5,9 +5,9 @@
 저에 대해 알고 싶으신가요? 🥷\
 제
 [__노션 블로그__](https://www.notion.so/8ceb5fdb216140f7b5dbf4ad58cb81bb)
-나
+와
 [__유튜브 채널__](https://www.youtube.com/channel/UC1GpSt5NWANSJWB2wzJQK6w)
-을 방문해주세요.
+에 방문해주세요.
 
 ---
 
