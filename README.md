@@ -1,3 +1,13 @@
+### Hi there 👋
+
 ```
-프론트엔드 전문가가 되고 싶은 박재운입니다. 🥷
+🥷 Front-End kid becoming an expert
+🛠 Work hard to make the ideal a reality.
+🌱 Proudly Vegan since 2019.05
+```
+
+```
+🥷 프론트엔드 전문가가 되고 싶은 박재운입니다.
+🛠 이상을 현실로 만들기 위해 열심히 일하고 공부합니다.
+🌱 2019년 5월부터 채식을 실천하고 있습니다.
 ```
